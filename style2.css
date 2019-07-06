@@ -1,25 +1,11 @@
-.box {
-    min-height: 50px;
-    padding: 5px;
-    margin: 5px;
-    font-weight: 800;
-    color: #fff;
-  }
-  
-  .skyblue {
-    background: deepskyblue;
-  }
-  
-  .purple {
-    background: rebeccapurple;
-  }
-  
-  .red {
-    background: indianred;
-  }
+
 
   img {
     max-width: 100%;
     height: auto;
   }
 
+  .navbar-nav > .nav-item{
+    margin-left: 25px;
+    margin-right: 25px;
+}
